@@ -3792,7 +3792,7 @@ section {
   min-height: 100%; }
 
 .feature {
-  padding: 1em 0 2em 0;
+  padding: 0 0 0 0;
   position: relative;
   overflow: hidden;
   clear: both; }
@@ -4003,8 +4003,7 @@ section {
   #agenda code, #agenda abbr, #agenda acronym {
     color: black; }
   #agenda .timings .row {
-    border-bottom: 1px dashed #f9c6a9;
-    width: 26%;
+    border-bottom: 1px dashed #ced250;
     margin-bottom: 0;
     padding: 0.5em 0;
     overflow: hidden;
@@ -4065,7 +4064,7 @@ section {
           top: 50%;
           margin-top: -1.5em; } }
     #agenda .timings .row:hover {
-      background-color: #f38749; }
+      background-color: #ced250; }
 
 #location {
   color: white;
